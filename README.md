@@ -12,7 +12,6 @@ Brazilian, 19y, focused in  full stack developer.
 <br/>🌱&nbsp;Learning about **Web Development, Systems automation and System for companies**
 <br/>💡&nbsp;I'm interested about **AI, Program languages, Database and Games**
 <br/>📫&nbsp;Reach me [kameluke@gmail.com](mailto:kameluke@gmail.com)
-<br/>🖥&nbsp; See my portfolio at [https://github.com/Lucassz18?tab=repositories](www.https://github.com/Lucassz18?tab=repositories)
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/Canva-05122A?style=flat&logo=canva" alt="canva Badge" height="25">&nbsp;
