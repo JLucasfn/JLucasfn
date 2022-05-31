@@ -8,7 +8,7 @@ Brazilian, 19y, focused in  full stack developer.
 
 ## About me
 🔭&nbsp;My focus **Studies**
-<br/>🎓&nbsp;Graduated in **Computer engineering**
+<br/>🎓&nbsp;Graduating in **Computer engineering**
 <br/>🌱&nbsp;Learning about **Web Development, Systems automation and System for companies**
 <br/>💡&nbsp;I'm interested about **AI, Program languages, Database and Games**
 <br/>📫&nbsp;Reach me [kameluke@gmail.com](mailto:kameluke@gmail.com)
