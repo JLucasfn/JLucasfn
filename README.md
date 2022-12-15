@@ -4,7 +4,7 @@
 <a href="https://www.instagram.com/https://www.instagram.com/joaolucas_sz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge" height="25"></a>&nbsp;
 
 ## Chestnyy Prints
-Brazilian, 19y, focused in  full stack developer.
+Brazilian, 19y, focused in systems and web developer.
 
 ## About me
 🔭&nbsp;My focus **Studies**
