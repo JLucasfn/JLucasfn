@@ -3,7 +3,7 @@
 <a href="https://www.instagram.com/https://www.instagram.com/joaolucas_sz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge" height="25"></a>&nbsp;
 
 ## Bio
-Brazilian, 19y, focused in systems and web developer.
+Brazilian, 20y, focused in systems and web developer.
 My favorite language is Java, but i don't like coffe. 😬
 
 ## About me
