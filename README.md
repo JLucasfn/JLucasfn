@@ -7,7 +7,7 @@ Brasileiro, 20 anos, focado em Desenvolvimento Web.
 Minha linguaguem favorita é Java, mesmo não gostando de café. 😬
 
 ## About me
-🔭&nbsp;My focus **Studies**
+🔭&nbsp;Meus focos são nos **Estudos**
 <br/>🎓&nbsp;Graduando em **Engenharia da Computação**
 <br/>🌱&nbsp;Aprendendo sobre **Desenvolvimento Web, Automação de Sistemas e Sistemas para empresas**
 <br/>💡&nbsp;Estou interessado em **IA, linguagens de programação, banco de dados e jogos**
