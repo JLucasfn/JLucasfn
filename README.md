@@ -1,17 +1,16 @@
 # João Lucas
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/joaolucasfn/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;
-<a href="https://www.instagram.com/https://www.instagram.com/joaolucas_sz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge" height="25"></a>&nbsp;
+<a href="https://www.linkedin.com/in/joaolucasfn/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;
+<a href="https://www.instagram.com/joaolucas_sz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge" height="25"></a>&nbsp;
 
 ## Bio
-Brazilian, 20y, focused in systems and web developer.
-My favorite language is Java, but i don't like coffe. 😬
+Brasileiro, 20 anos, focado em Desenvolvimento Web.
+Minha linguaguem favorita é Java, mesmo não gostando de café. 😬
 
 ## About me
 🔭&nbsp;My focus **Studies**
-<br/>🎓&nbsp;Graduating in **Computer engineering**
-<br/>🌱&nbsp;Learning about **Web Development, Systems automation and Systems for companies**
-<br/>💡&nbsp;I'm interested about **AI, Programming languages, Database and Games**
-<br/>📫&nbsp;Reach me [jlucasfrn@gmail.com](mailto:jlucasfrn@gmail.com)
+<br/>🎓&nbsp;Graduando em **Engenharia da Computação**
+<br/>🌱&nbsp;Aprendendo sobre **Desenvolvimento Web, Automação de Sistemas e Sistemas para empresas**
+<br/>💡&nbsp;Estou interessado em **IA, linguagens de programação, banco de dados e jogos**
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/Canva-05122A?style=flat&logo=canva" alt="canva Badge" height="25">&nbsp;
