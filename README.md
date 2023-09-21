@@ -25,7 +25,5 @@ My favorite language is Java, but i don't like coffe. 😬
 
 ## GitHub Analytics
 <div>
-<img height="177em" src="https://github-readme-stats.vercel.app/api?username=JLucasfn&theme=gruvbox&show_icons=true&count_private=true">
-<br/><br/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JLucasfn&theme=dracula&layout=compact&langs_count=4">
 </div>
