@@ -4,6 +4,7 @@
 
 ## Bio
 Brasileiro, 20 anos, focado em Desenvolvimento Web.
+<br>
 Minha linguaguem favorita é Java, mesmo não gostando de café. 😬
 
 ## About me
