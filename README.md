@@ -1,5 +1,5 @@
 <h1 align="center">Olá, meu nome é João Lucas</h1>
-<h3 align="center">Brasileiro, 20 anos, focado em Desenvolvimento Web. Minha linguagem favorita é Java, mesmo não gostando de café. 😬</h3>
+<h3 align="left">Brasileiro, 20 anos, focado em Desenvolvimento Web. Minha linguagem favorita é Java, mesmo não gostando de café. 😬</h3>
 
 - 🔭 Meus focos são nos **Estudos**
 
