@@ -1,7 +1,7 @@
-<h1 align="center">Olá, meu nome é João Lucas</h1>
+<h1 align="center">Olá, meu nome é João Lucas Freitas</h1>
 
 <h3 align="center">Brasileiro, 20 anos, focado em Desenvolvimento Web.</h3>
-<h3 align="left">Minha linguagem favorita é Java, mesmo não gostando de café. 😬</h3>
+<p align="left">Minha linguagem favorita é Java, mesmo não gostando de café. 😬</p>
 
 - 🔭 Meus focos são nos **Estudos**
 
