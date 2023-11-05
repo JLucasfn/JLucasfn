@@ -3,6 +3,7 @@
 
 <p align="left">Minha linguagem favorita é Java, mesmo não gostando de café. 😬</p>
 <h3 align="left">Sobre mim</h3>
+
 - 🔭 Meus focos são nos **Estudos**
 
 - 💡 Estou interessado em **IA, Linguagens de Programação, Banco de Dados e Jogos**
