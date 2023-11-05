@@ -1,7 +1,8 @@
 <h1 align="left">Olá, meu nome é João Lucas Freitas</h1>
-<h3 align="left">Sou brasileiro, tenho 20 anos, e estou focado em Desenvolvimento Web.</h3>
 
 <h3 align="left">Sobre mim</h3>
+
+- 👦🏻 Sou brasileiro, tenho 20 anos, e estou focado em **Desenvolvimento Web**.
 
 - 🔭 Meus focos são nos **Estudos.**
 
