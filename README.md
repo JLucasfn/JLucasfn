@@ -2,6 +2,7 @@
 <h3 align="center">Brasileiro, 20 anos, focado em Desenvolvimento Web.</h3>
 
 <p align="left">Minha linguagem favorita é Java, mesmo não gostando de café. 😬</p>
+<h3 align="left">Sobre mim:</h3>
 - 🔭 Meus focos são nos **Estudos**
 
 - 💡 Estou interessado em **IA, Linguagens de Programação, Banco de Dados e Jogos**
@@ -19,5 +20,5 @@
 <a href="https://instagram.com/joaolucasfn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joaolucasfn" height="30" width="40" /></a>
 </p>
 
-<h3>GitHub Analytics</h3>
+<h3>GitHub Analytics:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JLucasfn&theme=dracula&layout=compact&langs_count=4" alt="jlucasfn" /></p>
