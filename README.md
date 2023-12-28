@@ -6,7 +6,7 @@
 
 - 🔭 Meus focos são nos **Estudos.**
 
-- 💡 Estou interessado em **IA, Linguagens de Programação, Banco de Dados e Jogo.s**
+- 💡 Estou interessado em **IA, Linguagens de Programação, Banco de Dados e Automação.**
 
 - 🎓 Graduando em **Engenharia da Computação.**
 
