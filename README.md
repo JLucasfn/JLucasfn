@@ -2,7 +2,7 @@
 
 <h3 align="left">Sobre mim</h3>
 
-- 👦🏻 Sou brasileiro, tenho 20 anos, e estou focado em **Desenvolvimento Web**.
+- 👦🏻 Sou brasileiro, tenho 21 anos, e estou focado em **Desenvolvimento Web**.
 
 - 🔭 Meus focos são nos **Estudos.**
 
