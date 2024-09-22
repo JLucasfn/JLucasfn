@@ -19,4 +19,4 @@
 </p>
 <hr>
 <h3>GitHub Analytics</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JLucasfn&theme=dracula&layout=compact&langs_count=4" alt="jlucasfn" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JLucasfn&theme=dracula&layout=compact&langs_count=4" alt="jlucasfn" /></p>
