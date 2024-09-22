@@ -8,7 +8,7 @@
 
 - 🎓 Graduando em **Engenharia da Computação.**
 
-- 🌱 Aprendendo sobre **Análise de Dados, Aprendizado de Máquina e PLN.**
+- 🌱 Aprendendo sobre **Análise de Dados, Aprendizado de Máquina, Web Scraping e PLN.**
 
 - 🐍 Atualmente estou usando Python. Porém minha linguagem favorita é Java, mesmo não gostando de café.
 
