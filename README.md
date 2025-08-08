@@ -2,7 +2,7 @@
 
 <h3 align="left">Sobre mim</h3>
 
-- 👦🏻 Sou brasileiro, tenho 21 anos, e estou focado na área de **Análise de dados**.
+- 👦🏻 Sou brasileiro, tenho 22 anos, e estou focado na área de **Análise de dados**.
 
 - 💡 Estou interessado em **IA, Linguagens de Programação, Banco de Dados e Automação.**
 
